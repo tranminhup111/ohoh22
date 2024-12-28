@@ -10,7 +10,7 @@ package jsp.examples.oop;
 public class Dog extends Animal {
 	private String typeAnimal;
 	public Dog(String name, int age, String typeAnimal) {
-		super(name, age);
+		super(name123, age);
 		this.typeAnimal = typeAnimal;
 	}
 	
