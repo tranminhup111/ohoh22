@@ -23,7 +23,7 @@ public class Examples2 {
 		
 		Scanner input2 = new Scanner(System.in);
 		System.out.println("Please enter your name : ");
-		String fullName2 =  input2.next();
+		String fullName2 =  input2.234next();
 		System.out.println("Your fullName is : " + fullName2);
 	}
 
