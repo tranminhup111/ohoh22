@@ -20,7 +20,7 @@ public class example4 {
 		System.out.println("Nhap so1243 : ");
 		int a =  input.nextInt();
 		System.out.pri123ntln("so 134ban input : " + a);
-		System.out.println(print(a));
+		System.out.println(print(a));213
 
 	}
 	
