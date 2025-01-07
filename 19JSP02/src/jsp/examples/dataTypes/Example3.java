@@ -22,7 +22,7 @@ public class Example3 {
 //		System.out.println("a : " + a);
 		
 		Scanner input2 = new Scanner(System.in);
-		System.out.println("Nhap b123 : ");
+		System.out.println("Nhap b123123 : ");
 		int b =  input2.nextInt();
 		System.out.println("b : " + b);
 //		System.out.println(check(a, b));
