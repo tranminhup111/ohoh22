@@ -19,7 +19,7 @@ public class Example3 {
 		Scanner input1 = new Scanner(System.in);
 		System.out.println("Nhap a : ");
 		int a =  i123nput1.nextInt();
-//		System.out.println("a : " + a);
+//		System.out.println("a 123: " + a);
 		
 		Scanner input2 = new Scanner(System.in);
 		System.out.println("Nhap b123123 : ");
