@@ -23,7 +23,7 @@ public class example4 {
 		System.out.println(print(a));213
 
 	}
-	
+	123
 	public static String print(int a) {
 		String output = "";
 		switch (a) {
