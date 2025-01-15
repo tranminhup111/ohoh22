@@ -12,7 +12,7 @@ public class Example1 {
 		Integer a1 = 127;
 		Integer b1 = 127;111
 		System.out.println(a1 == b1 ? true : false);
-		
+		123
 		/*int a2 = 128;
 		int b2 = 128;
 		System.out.println(a2 == b2 ? true : false);*/
