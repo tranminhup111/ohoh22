@@ -17,7 +17,7 @@ public class Example3 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner input1 = new Scanner(System.in);
-		System.out.println("Nhap re : ");
+		System.out.println("Nhadsap re : ");
 		int a =  i123nput1.123nextInt();
 //		System.out.println("a 123: " + a);
 		
